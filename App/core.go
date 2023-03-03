@@ -25,7 +25,3 @@ func Delete(key string) error {
 
 	return nil
 }
-
-func main() {
-
-}
